@@ -1,5 +1,3 @@
-# arduino-closed-loop-thermal-controller
-Automated closed-loop thermal regulation system featuring stepped PWM fan control, L298N H-bridge driver, DHT11 sensing, and TM1637 real-time telemetry.
 # Closed-Loop Thermal Regulation System
 
 Automated closed-loop temperature control system utilizing stepped PWM fan actuation, an L298N H-bridge driver, a DHT11 environmental sensor, and a TM1637 4-digit display for real-time telemetry.
