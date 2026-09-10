@@ -59,3 +59,10 @@ The controller applies a multi-stage stepped PWM curve to ensure acoustic comfor
    * `DHT sensor library` by Adafruit
    * `TM1637Display` by Avishay Orpaz
 3. Flash the code to your board.
+
+---
+
+## Hardware Demonstration
+
+* **Fan Speed & Stepped PWM Control:** [Watch Video](Video%20Project%203.mp4)
+* **Real-Time Telemetry & Thermal Response:** [Watch Video](WhatsApp%20Video%202026-09-10%20at%2012.30.28.mp4)
